@@ -1,0 +1,22 @@
+.A{
+    border: 4px solid black;
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+    
+}
+#B{
+border: 4px dashed green;
+}
+#C{
+    border:4px dotted red;
+}
+#D{
+    border: 4px double yellow;
+}
+#E{
+    border: 4px inset orange;
+}
+#F{
+    border: 4PX outset pink;
+}
