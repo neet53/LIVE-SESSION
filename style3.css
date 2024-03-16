@@ -1,8 +1,8 @@
-.watch{
+.jmm{
     width: 150px;
     height: 150px;
     background-color: blue;
-    position: relative;
-    left: 100px;
-    top: 100px;
+    position: sticky;
+    left: 50px;
+    top: 50px;
 }
